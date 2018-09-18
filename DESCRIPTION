@@ -1,0 +1,14 @@
+Package: nater
+Type: Package
+Title: Reuseable Functions for Data Manipulation
+Version: 0.1.0
+Author: Nate Langholz
+Maintainer: Nate <langholz5@gmail.com>
+Description: 
+    This package loads a number of reuseable functions for data manipulation and additions for general data science work. 
+    There is no general theme of functions but just a bunch of things I have used in the past. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+RoxygenNote: 6.1.0
