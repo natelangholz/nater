@@ -2,6 +2,11 @@
 
 some reuseable DS R functions
 
-load example of the retry package with function
-
+install package with the following command
 devtools::install_github("natelangholz/nater")
+
+once installed can simply 'library(nater)' and then use functions
+
+## available functions
+
+retry - will retry a function that results in an error a set number of times
